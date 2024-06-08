@@ -1,0 +1,26 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "recipe-grid-site src out",
+    "watch": "npx npm-watch build",
+    "gh-pages": "gh-pages -td out",
+    "deploy": "yarn build && yarn gh-pages"
+  },
+  "author": "",
+  "license": "MIT",
+  "watch": {
+    "build": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "md",
+      "quiet": false
+    }
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
