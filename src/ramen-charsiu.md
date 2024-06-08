@@ -17,4 +17,4 @@ Ramen Pork / Charsiu
 
 Then just a few more process that takes a bit of time
 
-    cut(cool down overnight(oven at 230c for 8-10m(dry 30m(boilded pork belly))))
+    cut(cool down overnight(oven at 230c for 8-10m(dry on rack 30m(boiled pork belly))))
